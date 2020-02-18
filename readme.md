@@ -4,7 +4,7 @@
 
 Require this package in your composer.json and update composer. This will download the package and the dompdf + fontlib libraries also.
 
-    composer require narutovn/laravel-dompdf
+    composer require narutovn/laravel-dompdf:dev-master
 
 ## Installation
 
